@@ -1,6 +1,5 @@
 html {
   font-family: Roboto, Arial, sans-serif;
-  font-variation-settings: 'width' 100;
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
@@ -75,3 +74,4 @@ body {
   border-radius: 2px;
   color: var(--blue);
 }
+
